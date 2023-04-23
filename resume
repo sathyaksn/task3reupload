@@ -1,0 +1,54 @@
+
+ let resume="basics": {
+    "name": "sathya narayanan",
+    "age": "22",
+    "email": "vijaysathi2001@gmail.com",
+    "phone": "9750539455",
+    "degree": "BE",
+    "location":[ {
+      "address": "2/97A pollikalipalayam(po) dharapuram road",
+      "postalCode": "641665",
+      "city": "tiruppur",
+      "Country": "india",
+      "state": "tamilnadu"}
+    ],
+    "profiles": [
+      {
+        "linkedin": https://www.linkedin.com/in/sathya-narayanan-0a702a259;
+   }   
+    
+ 
+ ],
+ 
+  "education": [
+    {
+      "institution": "Amet university",
+      "studyType": "fulltime",
+      "startDate": "04/07/2018",
+      "endDate": "27/06/2022",
+      "gpa": "7.77",
+     
+    }
+  ],
+
+ 
+  "skills": [
+    {
+      "name": "c++ basic","javascript basic";
+    }
+  ],
+  "languages": [
+    {
+      "language": "English","Tamil",
+      }
+  ],
+  
+  "hobbies" : [
+    {    
+        "playing football","hearing songs";
+    
+      ]
+    }
+    }
+  
+
