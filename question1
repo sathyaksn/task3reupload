@@ -1,0 +1,41 @@
+let keys=['sathyanarayanan','balamani','krishnasamy']
+let values=[1,2,3]
+let family={}
+for(let i=0; i<keys.length;i++)
+{
+    family[keys[i]]=values[i]
+}
+ console.log(family);
+
+
+//JSON ITERATE USING FOR IN
+
+const data={
+    name:'sathyanarayanan'
+    age :'22',
+   place:'tiruppur'
+}
+for(let keys in data)
+{
+     console.log(keys+":" ,data[keys])
+}
+
+
+//JSON ITERATE USING FOREACH
+
+let fav=['captain','dog',''];
+let things=['cool','lover','2001'];
+let output ={}
+fav.forEach((fav,i)=>{
+    output[fav]=things[i]
+});
+
+//JSON ITERAITON USING FOR OF
+
+let bikes={'yamaha':1,'pulsar':2,'honda':3,'fav':'enfield'}
+let k= Object.keys(cars)
+for(let i of k)
+{
+    console.log(`${i} : ${bikes[i]}`);
+}
+
